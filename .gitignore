@@ -13,7 +13,7 @@ transient/
 
 emacs-user-configuration.el
 emacs-user-configuration.org
-orgmode-common-configuration.el
-orgmode-common-configuration.org
+orgmode-main-configuration.el
+orgmode-main-configuration.org
 orgmode-user-configuration.el
 orgmode-user-configuration.org
